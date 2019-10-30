@@ -1,3 +1,4 @@
+#https://medium.com/@guymodscientist/image-prediction-with-10-lines-of-code-3266f4039c7a
 from imageai.Prediction import ImagePrediction
 import os
 execution_path = os.getcwd()
